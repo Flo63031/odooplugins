@@ -1,0 +1,2 @@
+# odooplugins
+Pluginsodoo
